@@ -1,0 +1,24 @@
+body {
+
+}
+.container_large {
+
+}
+/* Header Styling */
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+}
+.logo {
+  display: inline-flex;
+  color: MediumAquaMarine;
+}
+.nav {
+  display: inline-flex;
+  color: black;
+}
+.nav span {
+  display: inline-block;
+}
