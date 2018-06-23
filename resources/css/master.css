@@ -64,3 +64,37 @@ padding: 10px;
   flex-direction: column;
   padding: 15px;
 }
+
+/* Story Content*/
+
+.main_image {
+  background-image: url(../media/main_story.png);
+  color: white;
+  font-family: Georgia;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  padding: 15px;
+}
+.earth-spins {
+  background-image: url(../media/story2.png);
+}
+.cat {
+  background-image: url(../media/story1.png);
+}
+.research {
+  background-image: url(../media/story3.png);
+}
+.image {
+  color: white;
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  padding: 15px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  flex-direction: column;
+  height: 300px;
+  text-align: center;
+}
